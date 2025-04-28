@@ -1,0 +1,1 @@
+It is an example app and place to test lint. Main focus goes to files in /test directory, as only they are considered by this lint.
